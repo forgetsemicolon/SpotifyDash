@@ -1,6 +1,7 @@
 # Spotify Dash
 
 This is a data visualization project focused at showing Spotify ( a music application) statistics. It is built using HTML, CSS, D3. 
+One of the major highlights of the project is the comparison between TikTok and Spotify artists and how social media influences their performances on the applications. 
 
 # Executing the project:
 **For mac users:**
